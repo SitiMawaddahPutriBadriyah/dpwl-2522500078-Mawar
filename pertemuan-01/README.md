@@ -19,9 +19,5 @@ Controller = jembatannya, dia yang ngatur. misal user klik hapus, controller yan
 - yang nampilin tabel siswa itu masuk View, soalnya cuma buat nampilin aja.
 - yang proses pas klik tombol tambah/hapus itu masuk Controller, soalnya dia yang ngatur logika mau diapain datanya.
 
-_kamu ganti ya jadi sesuai aplikasi kamu, jangan data siswa kalo aplikasi kamu kasir*
-
-*
-
 6. kesimpulan P1.
     jawaban:jadi di P1 ini kita belajar kalau MVC itu cara buat merapikan kode dari DPW yang sebelumnya masih berantakan. dengan dipisah jadi 3 bagian, aplikasi jadi lebih gampang dibenerin dan dikembangin lagi kedepannya.Udah, ini kalau kamu tulis tangan udah aman banget. Jangan lupa ganti contoh aplikasinya biar beda sama teman lain.
