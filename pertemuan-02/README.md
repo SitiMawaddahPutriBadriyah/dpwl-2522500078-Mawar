@@ -129,6 +129,7 @@ Sisipkan gambar yang relevan dari folder dokumentasi/ dengan perintah:
 ![Gambar 1 - Halaman Utama](dokumentasi/gambar1.jpg)
 ### Gambar 2. Hasil Pengujian Custom Route
 ![Gambar 2 - Custom Route](dokumentasi/gambar2.jpg)
+
 ## 9. Kesimpulan P2
 Jelaskan apa yang sudah dapat dilakukan kerangka MVC dan apa yang baru akan ditambahkan pada P3.
 jawab: Pada praktikum P2 saya sudah memahami dasar penggunaan pola MVC dengan membuat kerangka MVC sederhana sendiri. Aplikasi sudah memiliki index.php sebagai front controller, Router untuk mengatur route, Controller untuk menangani request, dan View untuk menampilkan hasil ke browser.
